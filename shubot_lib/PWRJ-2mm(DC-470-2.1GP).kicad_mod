@@ -30,7 +30,7 @@
   (fp_line (start -1.54988 -0.69568) (end -5.05 -0.69568) (layer "Dwgs.User") (width 0.127) (tstamp c14b0c35-92a9-4805-9a1e-b7fa35e1a0c7))
   (fp_line (start -6.69822 -6.50012) (end -6.69822 -3) (layer "Dwgs.User") (width 0.127) (tstamp deb8b548-1fdc-4185-a2d9-4b0b1d64d60f))
   (fp_line (start 0.49784 -2.74828) (end 0.49784 -6.74878) (layer "Dwgs.User") (width 0.127) (tstamp e23f1618-ece8-4ae8-b225-3bd100cadae5))
-  (fp_rect (start 0.2 0.2) (end -13.9 -9.1) (layer "F.CrtYd") (width 0.12) (fill none) (tstamp ea5e70ff-b338-4bcd-8c9d-337756e400f2))
+  (fp_rect (start 1 1.5) (end -13.9 -10.5) (layer "F.CrtYd") (width 0.12) (fill none) (tstamp ea5e70ff-b338-4bcd-8c9d-337756e400f2))
   (pad "1" thru_hole oval (at 0 -4.7) (size 1.5 4.5) (drill oval 1 4) (layers *.Cu *.Mask)
     (solder_mask_margin 0.0508) (solder_paste_margin -0.0508) (tstamp f37d77d7-7aef-491b-8d47-0cd57b2097c7))
   (pad "2" thru_hole oval (at -6.2 -4.7) (size 1.5 4.5) (drill oval 1 4) (layers *.Cu *.Mask)
